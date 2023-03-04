@@ -1,0 +1,500 @@
+.vector-icon3 {
+  position: relative;
+  width: 23.45px;
+  height: 21.75px;
+  flex-shrink: 0;
+}
+.fashion-logo3,
+.portfolio3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.portfolio3 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  font-family: var(--font-poppins);
+  color: var(--color-lightpink);
+  text-align: left;
+  display: inline-block;
+}
+.fashion-logo3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-child26 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.about5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-family: var(--heading);
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+}
+.frame-parent28,
+.frame-parent29,
+.frame-parent30,
+.links9 {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent28 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xs) var(--padding-11xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-3xs);
+  display: none;
+  gap: var(--gap-8xs);
+}
+.frame-parent29,
+.frame-parent30,
+.links9 {
+  display: flex;
+}
+.frame-parent29,
+.frame-parent30 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xs) var(--padding-11xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-3xs);
+  gap: var(--gap-8xs);
+}
+.links9 {
+  gap: var(--gap-6xl);
+}
+.component-2-child15 {
+  position: absolute;
+  top: 17.76px;
+  left: 16.87px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1.3316326141357422px 1.78px 0.89px rgba(0, 0, 0, 0.25);
+  width: 40.39px;
+  height: 38.62px;
+}
+.component-2-child16,
+.component-2-child17,
+.component-2-child18 {
+  position: absolute;
+  top: 27.08px;
+  left: 24.86px;
+  border-top: 2.7px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24.86px;
+  height: 2.66px;
+}
+.component-2-child17,
+.component-2-child18 {
+  top: 35.95px;
+}
+.component-2-child18 {
+  top: 44.83px;
+}
+.component-25 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  position: relative;
+  border-radius: var(--br-md);
+  width: 74.57px;
+  height: 74.57px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.links-container3,
+.menu-right5 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.links-container3 {
+  gap: var(--gap-5xl);
+}
+.menu-right5 {
+  padding: 0 0 0 var(--padding-2xl);
+}
+.final-navigation-bar3,
+.navigation-inner-bar3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.final-navigation-bar3 {
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  padding: var(--padding-2xs) var(--padding-6xl);
+  justify-content: flex-start;
+}
+.about-me {
+  align-self: stretch;
+  position: relative;
+}
+.image-6-icon2 {
+  position: relative;
+  width: 348px;
+  height: 34px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading-text {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vishwakarma-institute-of {
+  font-weight: 500;
+  color: var(--color-lightpink);
+}
+.instrumentation-and-control {
+  font-weight: 500;
+  color: var(--color-palegreen);
+}
+.i-am-currently-container {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--achievementscontent-size);
+  line-height: 136.5%;
+  text-align: justify;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.college-image-icon {
+  position: relative;
+  width: 151px;
+  height: 151px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.branch-name,
+.college-name {
+  align-self: stretch;
+  position: relative;
+}
+.college-name {
+  font-size: var(--font-size-5xl);
+}
+.branch-name {
+  text-align: justify;
+}
+.branch-name1 {
+  display: none;
+}
+.branch-name1,
+.year {
+  align-self: stretch;
+  position: relative;
+}
+.college-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.education-cards {
+  align-self: stretch;
+  border-radius: var(--br-lg);
+  background: linear-gradient(180deg, #1b2d3a, rgba(27, 45, 58, 0));
+  border: 1px solid var(--color-palegreen);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-4xs) var(--padding-md);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-md);
+}
+.branch-name2 {
+  align-self: stretch;
+  position: relative;
+  text-align: justify;
+}
+.aboutpage1,
+.education-cards-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.education-cards-parent {
+  gap: 51px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.aboutpage1 {
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  padding: var(--padding-3xl) 125px;
+  gap: 83px;
+}
+.designed-and-developed2,
+.samyak-jain2 {
+  align-self: stretch;
+  position: relative;
+}
+.samyak-jain2 {
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  font-family: var(--heading);
+  color: var(--color-lightpink);
+}
+.designed-and-developed-by-container,
+.frame-wrapper2 {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.designed-and-developed-by-container {
+  width: 388px;
+  height: 96px;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper2 {
+  width: 568px;
+  flex-direction: row;
+}
+.image-7-icon2 {
+  position: relative;
+  width: 107px;
+  height: 111.62px;
+  flex-shrink: 0;
+  object-fit: cover;
+  margin-left: -102px;
+}
+.frame-parent31 {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.aboutpage {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-lightpink);
+  font-family: var(--heading);
+}
+@media screen and (max-width: 1200px) {
+  .vector-icon3 {
+    width: 19px;
+  }
+  .portfolio3 {
+    font-size: var(--font-size-lg);
+  }
+  .links9,
+  .menu-right5 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar3 {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .i-am-currently-container {
+    font-size: var(--font-size-base);
+  }
+  .college-name {
+    font-size: var(--font-size-4xl);
+  }
+  .branch-name,
+  .branch-name1,
+  .branch-name2,
+  .year {
+    font-size: var(--font-size-2xs);
+  }
+  .aboutpage1 {
+    padding-left: var(--padding-9xl);
+    padding-right: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .frame-parent31 {
+    padding-top: var(--padding-3xs);
+    padding-bottom: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .vector-icon3 {
+    width: 15px;
+  }
+  .portfolio3 {
+    font-size: var(--font-size-2xs);
+  }
+  .frame-parent28,
+  .frame-parent29 {
+    display: none;
+  }
+  .links9 {
+    display: flex;
+  }
+  .component-25 {
+    display: flex;
+    border-radius: var(--br-2xl);
+  }
+  .menu-right5 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar3 {
+    padding-left: var(--padding-2xs);
+    padding-right: var(--padding-2xs);
+    box-sizing: border-box;
+  }
+  .i-am-currently-container {
+    font-size: var(--font-size-xs);
+  }
+  .college-name {
+    font-size: var(--achievementscontent-size);
+  }
+  .branch-name,
+  .branch-name1,
+  .branch-name2,
+  .year {
+    font-size: var(--font-size-4xs);
+  }
+  .aboutpage1,
+  .frame-parent31 {
+    padding-left: var(--padding-8xl);
+    padding-right: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+  .frame-parent31 {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+  }
+}
+@media screen and (max-width: 420px) {
+  .frame-parent30 {
+    display: none;
+  }
+  .component-25 {
+    width: 74px;
+    height: 74px;
+    border-radius: var(--br-3xl);
+  }
+  .final-navigation-bar3 {
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .about-me {
+    font-size: var(--font-size-5xl);
+  }
+  .image-6-icon2 {
+    max-width: 200px;
+    height: auto;
+  }
+  .i-am-currently-container {
+    font-size: var(--font-size-6xs);
+  }
+  .college-image-icon {
+    max-width: 30%;
+    height: auto;
+  }
+  .college-name {
+    font-size: var(--font-size-3xs);
+    text-align: left;
+  }
+  .branch-name,
+  .branch-name1 {
+    font-size: var(--font-size-8xs);
+    text-align: justify;
+  }
+  .branch-name {
+    display: none;
+  }
+  .branch-name1 {
+    font-weight: 700;
+    font-family: var(--font-roboto);
+    display: flex;
+  }
+  .year {
+    font-size: var(--font-size-7xs);
+  }
+  .college-details {
+    gap: var(--gap-6xs);
+  }
+  .education-cards {
+    gap: var(--gap-4xs);
+    border-radius: var(--br-sm);
+    padding: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .branch-name2 {
+    font-size: var(--font-size-8xs);
+    text-align: justify;
+    display: flex;
+  }
+  .aboutpage1 {
+    gap: var(--gap-7xl);
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .designed-and-developed2 {
+    font-size: var(--font-size-6xs);
+  }
+  .samyak-jain2 {
+    font-size: var(--font-size-2xs);
+  }
+  .frame-wrapper2 {
+    flex: 1;
+    height: auto;
+    flex-direction: row;
+    gap: var(--gap-10xs);
+    align-items: center;
+    justify-content: center;
+  }
+  .image-7-icon2 {
+    transform: rotate(0deg);
+    max-width: 50px;
+    height: auto;
+  }
+  .frame-parent31 {
+    padding: var(--padding-xs) var(--padding-7xl) var(--padding-6xs)
+      var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

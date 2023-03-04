@@ -1,0 +1,469 @@
+.vector-icon {
+  position: relative;
+  width: 23.45px;
+  height: 21.75px;
+  flex-shrink: 0;
+}
+.fashion-logo,
+.portfolio {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.portfolio {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  font-family: var(--font-poppins);
+  color: var(--color-lightpink);
+  text-align: left;
+  display: inline-block;
+}
+.fashion-logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-child12 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.about2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-family: var(--heading);
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+}
+.frame-parent13,
+.frame-parent15,
+.links3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent13,
+.frame-parent15 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xs) var(--padding-11xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-3xs);
+  gap: var(--gap-8xs);
+}
+.links3 {
+  gap: var(--gap-6xl);
+}
+.component-2-child3 {
+  position: absolute;
+  top: 17.76px;
+  left: 16.87px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1.3316326141357422px 1.78px 0.89px rgba(0, 0, 0, 0.25);
+  width: 40.39px;
+  height: 38.62px;
+}
+.component-2-child4,
+.component-2-child5,
+.component-2-child6 {
+  position: absolute;
+  top: 27.08px;
+  left: 24.86px;
+  border-top: 2.7px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24.86px;
+  height: 2.66px;
+}
+.component-2-child5,
+.component-2-child6 {
+  top: 35.95px;
+}
+.component-2-child6 {
+  top: 44.83px;
+}
+.component-22 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  position: relative;
+  border-radius: var(--br-md);
+  width: 74.57px;
+  height: 74.57px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.links-container,
+.menu-right2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.links-container {
+  gap: var(--gap-5xl);
+}
+.menu-right2 {
+  padding: 0 0 0 var(--padding-2xl);
+}
+.final-navigation-bar,
+.navigation-inner-bar {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.final-navigation-bar {
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  padding: var(--padding-2xs) var(--padding-6xl);
+  justify-content: flex-start;
+}
+.projects3 {
+  align-self: stretch;
+  position: relative;
+}
+.image-6-icon {
+  position: relative;
+  width: 348px;
+  height: 34px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.projects-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-lightpink);
+}
+.image-10-icon,
+.mask-group {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-4xl);
+}
+.image-10-icon {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mask-group {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  opacity: 0.65;
+  mix-blend-mode: normal;
+}
+.mask-group8:hover,
+.mask-group:hover {
+  opacity: 100%;
+}
+.pcb-defect-detection,
+.pcb-defect-detection1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.pcb-defect-detection1 {
+  display: none;
+  cursor: pointer;
+}
+.pcb-defect-detection-system-us-wrapper {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-7xs);
+  align-items: flex-start;
+  justify-content: center;
+  mix-blend-mode: normal;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise);
+  font-family: var(--font-roboto);
+}
+.pcb-defect-detection-using-yol-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  mix-blend-mode: normal;
+}
+.projectcard,
+.topprojectcard {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topprojectcard {
+  flex-direction: row;
+  padding: 0 var(--padding-14xs) 0 0;
+  gap: var(--gap-3xl);
+  mix-blend-mode: normal;
+}
+.projectcard {
+  flex-direction: column;
+}
+.text-utility-app,
+.text-utility-app1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.text-utility-app1 {
+  display: none;
+  cursor: pointer;
+}
+.developed-a-text {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.inventory-stock-management1 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+  display: none;
+  cursor: pointer;
+}
+.image-16-icon,
+.mask-group8 {
+  flex: 1;
+  border-radius: var(--br-4xl);
+}
+.image-16-icon {
+  position: relative;
+  max-height: 100%;
+  width: 285px;
+  object-fit: cover;
+}
+.mask-group8 {
+  align-self: stretch;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.65;
+  mix-blend-mode: normal;
+}
+.final-projects,
+.mask-group8,
+.projectpage {
+  display: flex;
+  flex-direction: column;
+}
+.final-projects {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  padding: var(--padding-3xl) var(--padding-11xl) 102px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xl);
+}
+.projectpage {
+  position: relative;
+  width: 100%;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--heading);
+}
+@media screen and (max-width: 1200px) {
+  .vector-icon {
+    width: 19px;
+  }
+  .portfolio {
+    font-size: var(--font-size-lg);
+  }
+  .links3,
+  .menu-right2 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .mask-group {
+    margin-top: 55px;
+  }
+  .pcb-defect-detection,
+  .pcb-defect-detection1 {
+    font-size: var(--font-size-3xl);
+  }
+  .projectcard {
+    gap: var(--gap-7xl);
+  }
+  .text-utility-app,
+  .text-utility-app1 {
+    font-size: var(--font-size-3xl);
+  }
+  .developed-a-text {
+    font-size: var(--font-size-2xs);
+  }
+  .inventory-stock-management1 {
+    font-size: var(--font-size-3xl);
+  }
+  .mask-group8 {
+    margin-top: 55px;
+  }
+  .final-projects {
+    gap: var(--gap-8xl);
+  }
+}
+@media screen and (max-width: 960px) {
+  .vector-icon {
+    width: 15px;
+  }
+  .portfolio {
+    font-size: var(--font-size-2xs);
+  }
+  .frame-parent13 {
+    display: none;
+  }
+  .links3 {
+    display: flex;
+  }
+  .component-22 {
+    display: flex;
+    border-radius: var(--br-2xl);
+  }
+  .menu-right2 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar {
+    padding-left: var(--padding-2xs);
+    padding-right: var(--padding-2xs);
+    box-sizing: border-box;
+  }
+  .mask-group {
+    display: none;
+  }
+  .pcb-defect-detection,
+  .pcb-defect-detection1 {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+  .pcb-defect-detection {
+    display: none;
+  }
+  .pcb-defect-detection1 {
+    display: flex;
+  }
+  .pcb-defect-detection-using-yol-parent {
+    gap: var(--gap-md);
+    margin-left: 0 !important;
+  }
+  .text-utility-app {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+    display: none;
+  }
+  .inventory-stock-management1,
+  .text-utility-app1 {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+    display: flex;
+  }
+  .mask-group8 {
+    display: none;
+  }
+  .final-projects {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 420px) {
+  .frame-parent15 {
+    display: none;
+  }
+  .component-22 {
+    width: 74px;
+    height: 74px;
+    border-radius: var(--br-3xl);
+  }
+  .final-navigation-bar {
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .projects3 {
+    font-size: var(--font-size-5xl);
+  }
+  .image-6-icon {
+    max-width: 200px;
+    height: auto;
+  }
+  .pcb-defect-detection,
+  .pcb-defect-detection1 {
+    font-weight: 600;
+    font-family: var(--heading);
+    font-size: var(--font-size-sm);
+    text-align: center;
+  }
+  .pcb-defect-detection {
+    display: none;
+  }
+  .pcb-defect-detection1 {
+    display: flex;
+  }
+  .topprojectcard {
+    padding-left: var(--padding-2xs);
+    padding-right: var(--padding-2xs);
+    box-sizing: border-box;
+  }
+  .text-utility-app,
+  .text-utility-app1 {
+    font-weight: 600;
+    font-family: var(--heading);
+    font-size: var(--font-size-sm);
+    text-align: center;
+  }
+  .text-utility-app1 {
+    display: flex;
+  }
+  .developed-a-text {
+    font-size: var(--font-size-7xs);
+    text-align: justify;
+  }
+  .inventory-stock-management1 {
+    font-weight: 600;
+    font-family: var(--heading);
+    font-size: var(--font-size-sm);
+    text-align: center;
+  }
+  .final-projects {
+    gap: var(--gap-md);
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+}

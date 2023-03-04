@@ -1,0 +1,34 @@
+.certificates-portfolio-8-1 {
+  position: relative;
+  width: 366.6px;
+  height: 519px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.merit19certificate {
+  position: relative;
+  width: 375px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: auto;
+}
+@media screen and (max-width: 1200px) {
+  .certificates-portfolio-8-1 {
+    max-width: 65%;
+    height: auto;
+  }
+}
+@media screen and (max-width: 960px) {
+  .certificates-portfolio-8-1 {
+    max-width: 65%;
+  }
+}
+@media screen and (max-width: 420px) {
+  .certificates-portfolio-8-1 {
+    max-width: 75%;
+  }
+}

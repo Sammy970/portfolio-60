@@ -1,0 +1,894 @@
+.vector-icon4 {
+  position: relative;
+  width: 23.45px;
+  height: 21.75px;
+  flex-shrink: 0;
+}
+.fashion-logo4,
+.portfolio4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+}
+.portfolio4 {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.03em;
+  font-weight: 900;
+  font-family: var(--font-poppins);
+  color: var(--color-lightpink);
+  text-align: left;
+  display: inline-block;
+}
+.fashion-logo4 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.frame-child29 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.about6 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-5xs);
+  font-family: var(--heading);
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+}
+.frame-parent32,
+.frame-parent34,
+.links11 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent32,
+.frame-parent34 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-13xs) var(--padding-11xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-3xs);
+  gap: var(--gap-8xs);
+}
+.links11 {
+  gap: var(--gap-6xl);
+}
+.component-2-child19 {
+  position: absolute;
+  top: 17.76px;
+  left: 16.87px;
+  border-radius: var(--br-2xs);
+  background-color: var(--color-white);
+  box-shadow: 0 1.3316326141357422px 1.78px 0.89px rgba(0, 0, 0, 0.25);
+  width: 40.39px;
+  height: 38.62px;
+}
+.component-2-child20,
+.component-2-child21,
+.component-2-child22 {
+  position: absolute;
+  top: 27.08px;
+  left: 24.86px;
+  border-top: 2.7px solid var(--color-black);
+  box-sizing: border-box;
+  width: 24.86px;
+  height: 2.66px;
+}
+.component-2-child21,
+.component-2-child22 {
+  top: 35.95px;
+}
+.component-2-child22 {
+  top: 44.83px;
+}
+.component-26 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  position: relative;
+  border-radius: var(--br-md);
+  width: 74.57px;
+  height: 74.57px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.links-container4,
+.menu-right6 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.links-container4 {
+  gap: var(--gap-5xl);
+}
+.menu-right6 {
+  padding: 0 0 0 var(--padding-2xl);
+}
+.final-navigation-bar4,
+.navigation-inner-bar4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.final-navigation-bar4 {
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  padding: var(--padding-2xs) var(--padding-6xl);
+  justify-content: flex-start;
+}
+.hey-im {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.samyak-jain3 {
+  margin: 0;
+}
+.currently-a-student,
+.hey-im-samyak-container {
+  align-self: stretch;
+  position: relative;
+}
+.currently-a-student {
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+}
+.hey-im-samyak-jain-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.hero-section-child,
+.image-3-icon {
+  position: relative;
+  width: 151.32px;
+  height: auto;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 50%;
+}
+.hero-section-child {
+  width: 352px;
+}
+.final-hero-section,
+.hero-section {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+}
+.hero-section {
+  border-radius: 44.26px;
+  flex-direction: row;
+  padding: var(--padding-lg) 0 var(--padding-14xs);
+  justify-content: center;
+  gap: 38px;
+}
+.final-hero-section {
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  padding: 0 var(--padding-6xl) 44px;
+  justify-content: flex-start;
+  color: var(--color-lightpink);
+}
+.image-4-icon {
+  position: relative;
+  width: 62.67px;
+  height: 64.48px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.iconssocial2 {
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+}
+.github2,
+.iconssocial2,
+.linkedin-icon2 {
+  position: relative;
+  display: none;
+}
+.linkedin-icon2 {
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.github2 {
+  font-size: var(--font-size-3xs);
+  font-family: var(--heading);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.medium-icon2 {
+  position: relative;
+  border-radius: var(--br-xs);
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.medium2 {
+  position: relative;
+  font-size: var(--font-size-3xs);
+  font-family: var(--heading);
+  color: var(--color-gray-200);
+  text-align: left;
+}
+.mediumbtn {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-12xs) var(--padding-6xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.iconssocial3 {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+}
+.githubbtn,
+.medium-icon3 {
+  border-radius: var(--br-xs);
+}
+.medium-icon3 {
+  position: relative;
+  width: 47px;
+  height: 47px;
+  flex-shrink: 0;
+  overflow: hidden;
+  display: none;
+}
+.githubbtn {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-12xs) var(--padding-6xs);
+  background-color: var(--color-lightpink);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-6xs);
+}
+.image-5-icon,
+.linkedin-icon4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.linkedin-icon4 {
+  width: 47px;
+  height: 47px;
+  overflow: hidden;
+}
+.image-5-icon {
+  width: 62.25px;
+  height: 64.45px;
+  object-fit: cover;
+}
+.image-4-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-10xl);
+  align-items: center;
+  justify-content: center;
+  gap: 67px;
+}
+.final-contact-me-section,
+.final-contact-me-section-inner {
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.final-contact-me-section-inner {
+  flex: 1;
+  padding: var(--padding-lg) 151px;
+}
+.final-contact-me-section {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+}
+.recent-blogs {
+  align-self: stretch;
+  position: relative;
+}
+.image-6-icon4 {
+  position: relative;
+  width: 348px;
+  height: 34px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.recent-blogs-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-lightpink);
+  font-family: var(--heading);
+}
+.date2 {
+  text-align: left;
+}
+.blog-short-desc2,
+.blog-title2,
+.date2 {
+  align-self: stretch;
+  position: relative;
+}
+.blog-title2 {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--heading);
+}
+.blog-short-desc2 {
+  font-size: var(--font-size-2xs);
+  font-family: var(--font-roboto);
+}
+.blogcard2,
+.read-more23 {
+  display: flex;
+  justify-content: flex-start;
+}
+.read-more23 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-12xs) var(--padding-6xs);
+  background-color: var(--color-palegreen);
+  border-radius: var(--br-xs);
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-6xs);
+}
+.blogcard2 {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-sm);
+}
+.check-out-more {
+  font-family: var(--heading);
+}
+.check-out-more-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: relative;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+  text-align: center;
+  display: inline-block;
+}
+.frame-parent35 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-10xs) var(--padding-11xs);
+  background-color: var(--color-lightpink);
+  border-radius: var(--br-3xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.final-new-blogs,
+.new-projects-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.final-new-blogs {
+  background-color: var(--color-gray-200);
+  padding: var(--padding-3xl) 261px;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xl);
+  text-align: justify;
+  font-size: var(--font-size-5xs);
+  font-family: var(--achievementscontent);
+}
+.new-projects-parent {
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-lightpink);
+}
+.image-10-icon1,
+.mask-group9 {
+  align-self: stretch;
+  flex: 1;
+  border-radius: var(--br-4xl);
+}
+.image-10-icon1 {
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mask-group9 {
+  background-color: var(--color-gainsboro);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  opacity: 0.65;
+  mix-blend-mode: normal;
+}
+.mask-group9:hover {
+  opacity: 100%;
+}
+.pcb-defect-detection3,
+.pcb-defect-detection4 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.pcb-defect-detection4 {
+  display: none;
+  cursor: pointer;
+}
+.pcb-defect-detection5 {
+  flex: 1;
+  position: relative;
+  font-weight: 600;
+}
+.pcb-defect-detection-system-us-container {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-5xs) var(--padding-7xs);
+  align-items: flex-start;
+  justify-content: center;
+  mix-blend-mode: normal;
+  text-align: justify;
+  font-size: var(--font-size-base);
+  color: var(--color-turquoise);
+  font-family: var(--font-roboto);
+}
+.pcb-defect-detection-using-yol-group {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--gap-3xs);
+  mix-blend-mode: normal;
+}
+.projectcard9,
+.topprojectcard9 {
+  align-self: stretch;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.topprojectcard9 {
+  flex-direction: row;
+  padding: 0 var(--padding-14xs) 0 0;
+  gap: var(--gap-3xl);
+  mix-blend-mode: normal;
+}
+.projectcard9 {
+  flex-direction: column;
+}
+.text-utility-app2,
+.text-utility-app3 {
+  align-self: stretch;
+  position: relative;
+  font-weight: 600;
+}
+.text-utility-app3 {
+  display: none;
+  cursor: pointer;
+}
+.final-new-projects {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-3xl) var(--padding-11xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-8xl);
+  text-align: right;
+  font-size: var(--font-size-5xl);
+}
+.designed-and-developed3,
+.samyak-jain4 {
+  align-self: stretch;
+  position: relative;
+}
+.samyak-jain4 {
+  font-size: var(--font-size-base);
+  text-transform: uppercase;
+  font-family: var(--heading);
+  color: var(--color-lightpink);
+}
+.designed-and-developed-by-parent1,
+.frame-wrapper3 {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.designed-and-developed-by-parent1 {
+  width: 388px;
+  height: 96px;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper3 {
+  width: 568px;
+  flex-direction: row;
+}
+.image-7-icon3 {
+  position: relative;
+  width: 107px;
+  height: 111.62px;
+  flex-shrink: 0;
+  object-fit: cover;
+  margin-left: -102px;
+}
+.frame-parent37 {
+  align-self: stretch;
+  background-color: var(--color-gray-200);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-3xs) var(--padding-13xl);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  font-family: var(--font-roboto);
+}
+.homepage {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--heading-size);
+  color: var(--color-white);
+  font-family: var(--heading);
+}
+@media screen and (max-width: 1200px) {
+  .vector-icon4 {
+    width: 19px;
+  }
+  .portfolio4 {
+    font-size: var(--font-size-lg);
+  }
+  .links11,
+  .menu-right6 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar4 {
+    padding-left: var(--padding-4xl);
+    padding-right: var(--padding-4xl);
+    box-sizing: border-box;
+  }
+  .hey-im-samyak-jain-parent {
+    flex: unset;
+    align-self: stretch;
+  }
+  .image-3-icon {
+    transform: rotate(-290deg);
+    max-width: 120px;
+    height: auto;
+  }
+  .hero-section-child {
+    max-width: 50%;
+    height: auto;
+  }
+  .hero-section {
+    flex-direction: column;
+  }
+  .image-4-icon,
+  .image-5-icon {
+    display: none;
+  }
+  .image-4-parent {
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .mask-group9 {
+    margin-top: 55px;
+  }
+  .pcb-defect-detection3,
+  .pcb-defect-detection4 {
+    font-size: var(--font-size-3xl);
+  }
+  .pcb-defect-detection5 {
+    font-size: var(--font-size-2xs);
+  }
+  .projectcard9 {
+    gap: var(--gap-7xl);
+  }
+  .text-utility-app2,
+  .text-utility-app3 {
+    font-size: var(--font-size-3xl);
+  }
+  .frame-parent37 {
+    padding-top: var(--padding-3xs);
+    padding-bottom: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 960px) {
+  .vector-icon4 {
+    width: 15px;
+  }
+  .portfolio4 {
+    font-size: var(--font-size-2xs);
+  }
+  .frame-parent32 {
+    display: none;
+  }
+  .links11 {
+    display: flex;
+  }
+  .component-26 {
+    display: flex;
+    border-radius: var(--br-2xl);
+  }
+  .menu-right6 {
+    gap: var(--gap-5xs);
+  }
+  .final-navigation-bar4 {
+    padding-left: var(--padding-2xs);
+    padding-right: var(--padding-2xs);
+    box-sizing: border-box;
+  }
+  .image-3-icon {
+    transform: rotate(-290deg);
+    max-width: 120px;
+  }
+  .final-hero-section {
+    padding-left: var(--padding-xs);
+    padding-right: var(--padding-xs);
+    box-sizing: border-box;
+  }
+  .image-4-parent {
+    gap: var(--gap-3xl);
+    padding-left: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+  .final-contact-me-section {
+    flex-direction: row;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .final-new-blogs {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .mask-group9 {
+    display: none;
+  }
+  .pcb-defect-detection3,
+  .pcb-defect-detection4 {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+  .pcb-defect-detection3 {
+    display: none;
+  }
+  .pcb-defect-detection4 {
+    display: flex;
+  }
+  .pcb-defect-detection-using-yol-group {
+    gap: var(--gap-md);
+    margin-left: 0 !important;
+  }
+  .text-utility-app2,
+  .text-utility-app3 {
+    font-size: var(--font-size-3xl);
+    text-align: center;
+  }
+  .text-utility-app2 {
+    display: none;
+  }
+  .text-utility-app3 {
+    display: flex;
+  }
+  .final-new-projects,
+  .frame-parent37 {
+    padding-left: var(--padding-11xl);
+    padding-right: var(--padding-11xl);
+    box-sizing: border-box;
+  }
+  .frame-parent37 {
+    padding-left: var(--padding-12xl);
+    padding-right: var(--padding-12xl);
+  }
+}
+@media screen and (max-width: 420px) {
+  .frame-parent34 {
+    display: none;
+  }
+  .component-26 {
+    width: 74px;
+    height: 74px;
+    border-radius: var(--br-3xl);
+  }
+  .final-navigation-bar4 {
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .hey-im-samyak-container {
+    font-size: var(--font-size-4xl);
+  }
+  .currently-a-student {
+    font-size: var(--font-size-2xs);
+    text-align: left;
+    color: var(--color-white);
+  }
+  .hey-im-samyak-jain-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  .image-3-icon {
+    max-width: 90px;
+  }
+  .final-hero-section {
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .image-4-icon,
+  .image-5-icon {
+    display: flex;
+    transform: rotate(-290deg);
+  }
+  .githubbtn:hover,
+  .mediumbtn:hover {
+    background-color: var(--color-palegreen);
+  }
+  .final-contact-me-section-inner {
+    flex: unset;
+    align-self: stretch;
+  }
+  .final-contact-me-section {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0;
+    padding-right: 0;
+    box-sizing: border-box;
+  }
+  .recent-blogs {
+    font-size: var(--font-size-5xl);
+  }
+  .image-6-icon4 {
+    max-width: 200px;
+    height: auto;
+  }
+  .blog-short-desc2,
+  .blog-title2 {
+    font-size: var(--font-size-2xs);
+    text-align: justify;
+  }
+  .blog-short-desc2 {
+    font-size: var(--font-size-6xs);
+  }
+  .blogcard2 {
+    padding-left: 0;
+    box-sizing: border-box;
+  }
+  .check-out-more-container {
+    font-size: var(--font-size-3xs);
+  }
+  .final-new-blogs {
+    gap: var(--gap-md);
+    padding-left: var(--padding-xs);
+    padding-right: var(--padding-xs);
+    box-sizing: border-box;
+  }
+  .pcb-defect-detection3,
+  .pcb-defect-detection4 {
+    font-weight: 600;
+    font-family: var(--heading);
+    font-size: var(--font-size-sm);
+    text-align: center;
+  }
+  .pcb-defect-detection3 {
+    display: none;
+  }
+  .pcb-defect-detection4 {
+    display: flex;
+  }
+  .pcb-defect-detection5 {
+    font-size: var(--font-size-7xs);
+    text-align: justify;
+  }
+  .topprojectcard9 {
+    padding-left: var(--padding-2xs);
+    padding-right: var(--padding-2xs);
+    box-sizing: border-box;
+  }
+  .text-utility-app2,
+  .text-utility-app3 {
+    font-weight: 600;
+    font-family: var(--heading);
+    font-size: var(--font-size-sm);
+    text-align: center;
+  }
+  .text-utility-app3 {
+    display: flex;
+  }
+  .final-new-projects {
+    gap: var(--gap-md);
+    padding-left: var(--padding-6xs);
+    padding-right: var(--padding-6xs);
+    box-sizing: border-box;
+  }
+  .designed-and-developed3 {
+    font-size: var(--font-size-6xs);
+  }
+  .samyak-jain4 {
+    font-size: var(--font-size-2xs);
+  }
+  .frame-wrapper3 {
+    flex: 1;
+    height: auto;
+    flex-direction: row;
+    gap: var(--gap-10xs);
+    align-items: center;
+    justify-content: center;
+  }
+  .image-7-icon3 {
+    transform: rotate(0deg);
+    max-width: 50px;
+    height: auto;
+  }
+  .frame-parent37 {
+    padding: var(--padding-xs) var(--padding-7xl) var(--padding-6xs)
+      var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
